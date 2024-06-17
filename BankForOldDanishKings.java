@@ -21,7 +21,7 @@ public class Customer {
 
     public static void main(String[] args) {
 
-        Customer gore = new Customer("Gore Den Gamle", 1000.00);
+        Customer gore = new Customer("Gorm Den Gamle", 1000.00);
         System.out.println(gore);
         
 
